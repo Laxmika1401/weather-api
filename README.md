@@ -31,7 +31,7 @@ This project aims to integrate a weather API into a FastAPI application. The app
 
 3. Explore the available endpoints:
 
-- `/weather` (POST): Retrieves weather information based on the provided request data.
+- `/getCurrentWeather` (POST): Retrieves weather information based on the provided request data.
   - Request Body:
     ```
     {
